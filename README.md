@@ -23,5 +23,11 @@ Python 3 is necessary to run this script as well knowing how to run scripts on c
 Glone this repository into a folder on your system. Repository includes two dpcuments, the script and a dictionary of terms.
 
 # Running
-To run, set up a job on your server, and run the command:/
+To run, set up a job on your server, and run the command:\
 ./TroPy_script.py
+
+# Completion
+Upon completion a new csv file will be created called Scraped_df.csv with all organisms consumption habits and a final classification category.
+
+# Authors
+J Raffington - MBINF Summer Project
