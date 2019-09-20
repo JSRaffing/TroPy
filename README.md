@@ -23,4 +23,5 @@ Python 3 is necessary to run this script as well knowing how to run scripts on c
 Glone this repository into a folder on your system. Repository includes two dpcuments, the script and a dictionary of terms.
 
 # Running
-
+To run, set up a job on your server, and run the command:/
+./TroPy_script.py
